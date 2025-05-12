@@ -41,6 +41,8 @@ arretVelo_Predict/
         - Trip Chaining (méthode heuristique)
         - Random Forest (baseline)
 
+    ![Texte alternatif](images/comparaison.png)
+
 3. **Analyse des Résultats**
 
     - Matrice Origine-Destination (OD)
@@ -56,3 +58,4 @@ arretVelo_Predict/
     - Diagramme de Sankey (Plotly) : Flux prédits entre stations
         ![Texte alternatif](images/sankey_plot.png)
     - Heatmap Interactive :
+        ![Texte alternatif](images/fluxOD.png)
