@@ -56,5 +56,5 @@ arretVelo_Predict/
 **A. Flux entre Stations**
 - Diagramme de Sankey (Plotly) : Flux prédits entre stations
  ![Texte alternatif](images/sankey_plot.png)
-- Heatmap Interactive :
+- Heatmap static :
  ![Texte alternatif](images/fluxOD.png)
