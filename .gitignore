@@ -1,0 +1,14 @@
+# Environnements virtuels Python
+my_env/
+venv/
+env/
+
+# Fichiers générés par Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Autres fichiers inutiles
+*.log
+*.pot
+*.sqlite3
